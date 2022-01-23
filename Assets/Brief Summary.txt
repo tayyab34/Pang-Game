@@ -1,0 +1,12 @@
+                                                     Pang Game
+ In this game player fires the balloon, large balloon destroyed and divided into some small balloons and so on.
+
+ Steps:
+
+ 1) player and its movement using transform.translate
+ 2) Fire Spawning when spacebar pressed
+ 3) balloon movement using rigid body functions
+ 4) Spawning balloon when hit with fire using trigger
+
+ I face difficulty in spawning balloon when hit with fire
+ I enjoyed it because it takes deep thinking and lots of learning.
