@@ -7,7 +7,7 @@ public class BalloonMovement : MonoBehaviour
     private float balloonup = 8;
     private float balloondown = 2;
     private Rigidbody balloonRb;
-    private float jumpforce = 5;
+    private float jumpforce = 2;
 
     // Start is called before the first frame update
     void Start()
